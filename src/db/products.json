@@ -1,0 +1,31 @@
+[
+  {
+    "name": "regla",
+    "description": "descripcion",
+    "timestamp": "tiempo",
+    "codigo": "codigo",
+    "url": "url",
+    "price": "precio",
+    "stock": "stock",
+    "id": 1
+  },
+  {
+    "name": "regla",
+    "description": "descripcion",
+    "timestamp": "tiempo",
+    "codigo": "codigo",
+    "url": "url",
+    "price": "precio",
+    "stock": "stock",
+    "id": 2
+  },
+  {
+    "name": "mateo",
+    "description": "des",
+    "price": "1",
+    "stock": "2",
+    "timestamp": "3",
+    "url": "url",
+    "id": 1657112706263
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1657036490257,
+    "products": [
+      {
+        "name": "auto",
+        "idProduct": 1
+      },
+      {
+        "name": "bici",
+        "idProduct": 2
+      },
+      {
+        "name": "moto",
+        "idProduct": 3
+      },
+      {
+        "name": "avion",
+        "idProduct": 4
+      }
+    ]
+  }
+]
